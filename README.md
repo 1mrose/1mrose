@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="tiger_bw_tape.png" width="100%" height="250" />
-</p>
+Do a little more!
 
 <!--
 **1mrose/1mrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
