@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tiger_bw_tape.png" width="100%" height="150" />
+  <img src="tiger_bw_tape.png" width="100%" height="250" />
 </p>
 
 <!--
